@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Harry-zklcdc/bing-lib/lib/net_http"
+	"github.com/chengtx809/bing-lib/lib/net_http"
 )
 
 // Client 		==> 客户端实例

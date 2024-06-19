@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/Harry-zklcdc/bing-lib/lib/aes"
-	"github.com/Harry-zklcdc/bing-lib/lib/hex"
-	"github.com/Harry-zklcdc/bing-lib/lib/request"
+	"github.com/chengtx809/bing-lib/lib/aes"
+	"github.com/chengtx809/bing-lib/lib/hex"
+	"github.com/chengtx809/bing-lib/lib/request"
 	"github.com/gorilla/websocket"
 )
 

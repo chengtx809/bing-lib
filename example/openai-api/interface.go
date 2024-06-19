@@ -1,6 +1,6 @@
 package main
 
-import binglib "github.com/Harry-zklcdc/bing-lib"
+import binglib "github.com/chengtx809/bing-lib"
 
 type chatRequest struct {
 	Messages []binglib.Message `json:"messages"`

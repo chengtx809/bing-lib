@@ -3,7 +3,7 @@ package aes_test
 import (
 	"testing"
 
-	"github.com/Harry-zklcdc/bing-lib/lib/aes"
+	"github.com/chengtx809/bing-lib/lib/aes"
 )
 
 func TestAES(t *testing.T) {

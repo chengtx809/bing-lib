@@ -3,7 +3,7 @@ package base58_test
 import (
 	"testing"
 
-	"github.com/Harry-zklcdc/bing-lib/lib/base58"
+	"github.com/chengtx809/bing-lib/lib/base58"
 )
 
 const STR = "Harry-zklcdc/go-proxy-bingai"
